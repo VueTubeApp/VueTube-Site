@@ -51,6 +51,7 @@ body { overflow-x: hidden; max-width: 100%; }
 body.light-theme {
   mat-toolbar { background-color: #009688 !important; }
   .mat-raised-button { background-color: #e65e29 !important; }
+  .mat-raised-button.mat-button-disabled { background-color: rgba(13, 13, 13, 0.12) !important; color:rgba(255, 255, 255, 0.3)!important; }
   a, a:hover { color: white; }
   .mat-button-wrapper, .bar-item { color: white; }
   .center-img.light-preview { display: block; }
