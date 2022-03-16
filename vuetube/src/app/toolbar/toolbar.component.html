@@ -1,0 +1,19 @@
+<mat-toolbar class="fixed">
+    <a [routerLink]="['/']" class="no-link-styling">
+        <span class="branding">
+            <img src="assets/vuetube-logo.png" alt="VueTube Logo" class="brand-logo">
+            <h1 class="navbar-title">VueTube</h1>
+        </span>
+    </a>
+    <span class="navbar-link-download">
+        <a mat-button href="https://github.com/Frontesque/VueTube/releases" target="_blank">Download</a>
+    </span>
+    <span class="navbar-link-faq">
+        <button mat-button [routerLink]="['faq']">FAQs</button>
+    </span>
+    <div class="navbar-right-links">
+        <a mat-icon-button href="https://discord.gg/jaRJwQVRbz"><mat-icon>discord</mat-icon></a>
+        <a mat-icon-button href="https://reddit.com/r/vuetube"><mat-icon>reddit</mat-icon></a>
+        <a mat-icon-button href="https://github.com/Frontesque/VueTube/"><img style="height:24px" src="assets/github-image.png"></a>
+    </div>
+</mat-toolbar>

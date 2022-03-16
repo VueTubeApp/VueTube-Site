@@ -1,0 +1,41 @@
+.fixed {
+    position: fixed; 
+    z-index: 50;
+}
+.brand-logo {
+    height: 2em;
+    padding-right: 0.5em;
+}
+.navbar-title {
+    font-size: 1em;
+    padding-top: 0.1em;
+}
+.branding {
+    display: flex;
+    width: fit-content;
+}
+.no-link-styling, .no-link-styling:hover, .no-link-styling:visited {
+    text-decoration: none;
+    color: white;
+}
+.navbar-link-download {
+    padding-left: 0.5em;
+}
+.navbar-link-faq {
+    padding-left: 0.5em;
+}
+.navbar-right-links  {  
+    right: 0;
+    position: fixed !important;
+    margin-right: 1em;
+}
+a:hover {
+    color: white;
+}
+
+@media(max-width: 500px) {
+    .navbar-link-download { display: none; }
+}
+@media(max-width: 350px) { 
+    .navbar-right-links { display: none; }
+}
