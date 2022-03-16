@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { NgxSimpleIconsModule, github } from 'ngx-simple-icons';
 
 @Component({
   selector: 'app-toolbar',

@@ -10,12 +10,12 @@ import { TopSectionComponent } from './landingpage/top-section/top-section.compo
 import { FeaturesComponent } from './landingpage/features/features.component';
 import { BottomSectionComponent } from './landingpage/bottom-section/bottom-section.component';
 import { FaqPageComponent } from './faq-page/faq-page.component';
+import { FooterComponent } from './footer/footer.component';
 
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatExpansionModule } from '@angular/material/expansion';
-import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [

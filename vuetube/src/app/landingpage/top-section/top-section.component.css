@@ -36,11 +36,13 @@
     transform: rotate(-10deg);
 }
 .download-button {
-    margin-top: 2em;
+    margin-top: 0.5em;
     margin-right: 10%;
     margin-left: auto;
 }
 .first-col { margin-left: 2em; }
+
+.center-img.light-preview { display: none; }
 
 @media (max-width: 770px) {
     .hide-if-small { display: none; }
@@ -72,4 +74,11 @@
     .center-stuff {
         text-align: center;
     }
+}
+a.mat-raised-button {
+    transition: transform .1s ease-in-out;
+}
+
+a.mat-raised-button:hover {
+    transform: scale(1.05);
 }

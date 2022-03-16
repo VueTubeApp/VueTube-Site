@@ -15,3 +15,10 @@
      }
      h1 { font-size: 1em; }
 }
+a.mat-raised-button {
+    transition: transform .1s ease-in-out;
+}
+
+a.mat-raised-button:hover {
+    transform: scale(1.05);
+}

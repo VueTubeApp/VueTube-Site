@@ -43,3 +43,10 @@
     .scrn-sm { display: none; }
     .scrn-lg { display: block; }
 }
+a[mat-raised-button] {
+    transition: transform .3s ease-in-out;
+}
+
+a[mat-raised-button]:hover {
+    transform: scale(1.1);
+}
