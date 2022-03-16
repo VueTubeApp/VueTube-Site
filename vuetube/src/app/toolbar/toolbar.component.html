@@ -12,8 +12,9 @@
         <button mat-button [routerLink]="['faq']">FAQs</button>
     </span>
     <div class="navbar-right-links">
-        <a mat-icon-button href="https://discord.gg/jaRJwQVRbz"><mat-icon>discord</mat-icon></a>
-        <a mat-icon-button href="https://reddit.com/r/vuetube"><mat-icon>reddit</mat-icon></a>
-        <a mat-icon-button href="https://github.com/Frontesque/VueTube/"><img style="height:24px" src="assets/github-image.png"></a>
+        <a mat-icon-button mat-button matTooltip="Toggle Dark Mode" (click)="toggleDarkmode()"><fa-icon [icon]="faFillDrip"></fa-icon></a>
+        <a mat-icon-button href="https://discord.gg/jaRJwQVRbz"><fa-icon [icon]="faDiscord"></fa-icon></a>
+        <a mat-icon-button href="https://reddit.com/r/vuetube"><fa-icon [icon]="faReddit"></fa-icon></a>
+        <a mat-icon-button href="https://github.com/Frontesque/VueTube/"><fa-icon [icon]="faGithub"></fa-icon></a>
     </div>
 </mat-toolbar>

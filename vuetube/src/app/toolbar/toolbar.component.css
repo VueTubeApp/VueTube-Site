@@ -14,6 +14,9 @@
     display: flex;
     width: fit-content;
 }
+fa-icon {
+    font-size: 1.5em;
+}
 .no-link-styling, .no-link-styling:hover, .no-link-styling:visited {
     text-decoration: none;
     color: white;

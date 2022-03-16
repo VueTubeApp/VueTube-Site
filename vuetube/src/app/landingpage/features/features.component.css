@@ -50,3 +50,6 @@ a[mat-raised-button] {
 a[mat-raised-button]:hover {
     transform: scale(1.1);
 }
+fa-icon {
+    font-size: 1.5em;
+}
