@@ -17,10 +17,10 @@
 }
 .bar-item-mobile {
     width: 100%;
+    font-size: 0.6em;
     text-align: center;
-    margin-top: 1em;
+    margin-top: .5em;
     border-bottom: 1px solid rgb(67, 217, 184);
-    margin-bottom: 0.5em;
     height: fit-content;
 }
 .mobile-toolbar-row {
@@ -38,6 +38,7 @@
 @media(max-width: 770px){
     .scrn-sm { display: block; }
     .scrn-lg { display: none; }
+    p { margin-bottom: 0.5em; }
 }
 @media(min-width: 770px){
     .scrn-sm { display: none; }
