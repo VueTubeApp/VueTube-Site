@@ -25,8 +25,10 @@ export class ToolbarComponent implements OnInit {
     for(var i = 0; i < currentTheme.length; i++) {
       if(currentTheme[i].classList.contains("light-theme")) {
         currentTheme[i].classList.remove("light-theme");
+        localStorage.setItem('currentTheme', 'dark');
       } else {
         currentTheme[i].classList.add("light-theme");
+        localStorage.setItem('currentTheme', 'light');
       }
 
     }
