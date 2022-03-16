@@ -49,9 +49,8 @@ body { overflow-x: hidden; max-width: 100%; }
 
 // config for light/dark colour
 body.light-theme {
-  mat-toolbar { 
-    background-color: #919191 !important; 
-  }
+  mat-toolbar { background-color: #009688 !important; }
+  .mat-raised-button { background-color: #e65e29 !important; }
   a, a:hover { color: white; }
   .mat-button-wrapper, .bar-item { color: white; }
   .center-img.light-preview { display: block; }
