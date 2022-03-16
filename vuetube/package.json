@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "build:prod": "ng build --configuration production --base-href https://pekempy.github.io/VueTube-Site/"
+    "build:prod": "ng build --configuration production --base-href https://Frontesque.github.io/VueTube-Site/"
   },
   "private": true,
   "dependencies": {
