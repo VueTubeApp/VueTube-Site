@@ -17,16 +17,6 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
           collapsable: false,
           children: ["/guide/", "/guide/getting-started"],
         },
-        {
-          title: "Reference",
-          collapsable: false,
-          children: [
-            [
-              "https://vuepress.vuejs.org/theme/default-theme-config.html",
-              "Default Theme Config",
-            ],
-          ],
-        },
       ],
     },
     codeSwitcher: {
