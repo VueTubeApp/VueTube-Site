@@ -18,8 +18,6 @@ If you're installing bleeding edge, download the `android` file, [unzip it on yo
 
 For both bleeding edge and nightly, download either the `iOS` file or the latest IPA from #ipas on your computer and [sideload it onto your phone](https://chrunos.com/install-ipa-on-iphone/).
 
-<NextSteps>
+<!-- <NextSteps>
   <Step href="/guide/getting-started.html" title="Getting Started" description="Learn how to quickly install and use this theme."/>
-  <Step href="/api/" title="Config" description="Learn about the configuration of this theme."/>
-  <Step href="/guide/migration.html" title="Migration" description="Migrate from other VuePress themes."/>
-</NextSteps>
+</NextSteps> -->

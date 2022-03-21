@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "{{ name }}",
+  "name": "VueTube website",
   "version": "0.4.1",
   "scripts": {
     "dev": "vuepress dev docs --temp .temp",
@@ -10,6 +10,9 @@
     "vuepress": "1.9.7",
     "vuepress-theme-vt": "0.4.1"
   },
-  "description": "{{ description }}",
-  "author": "{{ username }} <{{ email }}>"
+  "description": "Website for VueTube",
+  "author": "ThatOneCalculator <kainoa@t1c.dev>",
+  "resolutions": {
+    "optimize-css-assets-webpack-plugin": "5.0.6"
+  }
 }
