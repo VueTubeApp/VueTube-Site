@@ -17,7 +17,7 @@ features:
   - title: Always up-to-date
     details: Never worry about updates again, it's built right into the app so you'll always have the latest and greatest. Don't like a new change? Just revert it!
   - title: Community
-    details: With almost 500 GitHub stars, 1,000 Discord members, and 6 code contributers, we have your back.
+    details: We strive to build a sense of community while developing VueTube. Join our Discord or Reddit to leave your feedback!
 ---
 
 ::: slot heroText
