@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.svg
 actionText: Install
-actionLink: /guide/
+actionLink: /download/
 subActionText: GitHub
 subActionLink: https://github.com/Frontesque/VueTube
 features:
