@@ -1,8 +1,8 @@
 # Download
 
-## Bleeding edge (Android, iOS, Desktop browser):
-
-1. Go to the [GitHub actions page](https://github.com/Frontesque/VueTube/actions/workflows/ci.yml) and click on the latest passing run (denoted by a green checkmark). `android` for Android, `iOS` for iOS, and `dist` for desktop browser.
+## Unstable
+<Button size="large" color="deeppink" href="https://nightly.link/Frontesque/VueTube/workflows/ci/main/android.zip">Android</Button>
+iOS: See Nightly Below
 
 ## Nightly (Android, iOS):
 
