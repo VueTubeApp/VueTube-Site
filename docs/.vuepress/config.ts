@@ -9,13 +9,13 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
     enableDarkMode: true,
     repo: "https://github.com/Frontesque/VueTube",
     logo: "/logo.svg",
-    nav: [{ text: "Download", link: "/Install/" }],
+    nav: [{ text: "Download", link: "/install/" }],
     sidebar: {
       "/install/": [
         {
           title: "Install",
           collapsable: false,
-          children: ["/Install/", "/Install/nightly-install", "/Install/unstable-install"],
+          children: ["/install/", "/install/nightly-install", "/install/unstable-install"],
         },
       ],
     },
