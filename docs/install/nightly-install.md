@@ -1,5 +1,7 @@
-# iOS
+# Nightly Install
+
+## iOS
 Coming Soon
 
-# Android
+## Android
 Coming Soon
