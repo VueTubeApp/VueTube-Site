@@ -4,9 +4,9 @@
 - Android: [Download (format: .zip)](https://nightly.link/Frontesque/VueTube/workflows/ci/main/android.zip)
 - iOS: See Nightly Below
 
-## Nightly (Android, iOS):
-
-Join the **[Discord](https://discord.com/invite/7P8KJrdd5W)** and go to the [#apks](https://discord.com/channels/946587366242533377/946910031562027029) channel if you're on Android or the [#ipas](https://discord.com/channels/946587366242533377/949908267855921163) channel if you're on iOS.
+## Nightly:
+- Android: [Download (format: .apk)](https://cdn.discordapp.com/attachments/946910031562027029/955155427602071602/VueTube-Nightly-March-20-2022.apk)
+- iOS: [Download (format: .ipa)](https://cdn.discordapp.com/attachments/949908267855921163/952964142841626705/VueTube.ipa)
 
 # Install
 
