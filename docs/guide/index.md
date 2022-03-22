@@ -1,8 +1,8 @@
 # Download
 
 ## Unstable
-<Button size="large" color="deeppink" href="https://nightly.link/Frontesque/VueTube/workflows/ci/main/android.zip">Android</Button>
-iOS: See Nightly Below
+- Android: [Download (format: .zip)](https://nightly.link/Frontesque/VueTube/workflows/ci/main/android.zip)
+- iOS: See Nightly Below
 
 ## Nightly (Android, iOS):
 
