@@ -9,6 +9,6 @@
 - iOS: [Download (format: .ipa)](https://cdn.discordapp.com/attachments/949908267855921163/952964142841626705/VueTube.ipa)
 
 <!-- <NextSteps>
-  <Step href="/guide/nightly-install" title="Install Nightly Builds" description="Learn how to quickly install VueTube."/>
-  <Step href="/guide/unstable-install" title="Install Unstable Builds" description="Learn how to quickly install VueTube."/>
+  <Step href="/guide/nightly-install.html" title="Install Nightly Builds" description="Learn how to quickly install VueTube."/>
+  <Step href="/guide/unstable-install.html" title="Install Unstable Builds" description="Learn how to quickly install VueTube."/>
 </NextSteps> -->
