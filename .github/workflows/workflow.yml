@@ -12,7 +12,7 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: Frontesque/VueTube-Site
-        TARGET_BRANCH: gh_pages
+        TARGET_BRANCH: gh-pages
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: /proposal/docs/.vuepress/dist
+        BUILD_DIR: /docs/.vuepress/dist
         CNAME: https://vuetube.app
