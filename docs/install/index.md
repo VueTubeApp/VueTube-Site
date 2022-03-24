@@ -1,7 +1,7 @@
 # Downloads
 
 ### NOTICE
-Before installing and version of VueTube, please make sure that your device is using the latest version of Android System WebView
+Before installing any version of VueTube, please make sure that your device is using the latest version of Android System WebView
 - [Update (via Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.webview)
 - [More Information](/install/android-system-webview)
 
