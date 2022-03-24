@@ -15,7 +15,7 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
         {
           title: "Install",
           collapsable: false,
-          children: ["/install/", "/install/nightly-install", "/install/unstable-install"],
+          children: ["/install/", "/install/nightly-install", "/install/unstable-install", "/install/android-support"],
         },
       ],
     },
