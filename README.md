@@ -1,4 +1,3 @@
-
 # Vuetube
 
 ### Credits
