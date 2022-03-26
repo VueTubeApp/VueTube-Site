@@ -7,8 +7,8 @@ Before installing any version of VueTube, please make sure that your device is u
 
 ## Unstable
 A lot of bugs, but early access to features
-- Android: [Download (format: .zip)](https://nightly.link/Frontesque/VueTube/workflows/ci/main/android.zip)
-- iOS: See Nightly Below
+- Android: [Download (format: .zip // contains .apk)](https://nightly.link/Frontesque/VueTube/workflows/ci/main/android.zip)
+- iOS: [Download (format: .zip // contains .ipa)](https://nightly.link/Frontesque/VueTube/workflows/ci/main/iOS.zip)
 
 ## Nightly:
 Less bugs, more features than stable
