@@ -25,9 +25,9 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
           children: [ "/support/android", "/support/ios"],
         },
         {
-          title: "Devlopment",
+          title: "Development",
           collapsable: false,
-          children: [ "/contributing"],
+          children: [ "/contributing/"],
         }
       ]
     },
