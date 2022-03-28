@@ -23,6 +23,11 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
           title: "Supported Devices",
           collapsable: false,
           children: [ "/support/android", "/support/ios"],
+        },
+        {
+          title: "Devlopment",
+          collapsable: false,
+          children: [ "/contributing"],
         }
       ]
     },
