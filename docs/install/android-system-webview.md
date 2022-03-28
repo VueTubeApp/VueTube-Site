@@ -5,7 +5,7 @@ On some older devices, you may need to update your version of `Android System We
 
 [https://play.google.com/store/apps/details?id=com.google.android.webview](https://play.google.com/store/apps/details?id=com.google.android.webview)
 
-You can also check if your device may need WebView updates [here](/install/android-support).
+You can also check if your device may need WebView updates [here](/support/android).
 
 ## Support
 

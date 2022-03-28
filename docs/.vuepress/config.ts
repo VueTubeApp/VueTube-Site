@@ -10,15 +10,24 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
     repo: "https://github.com/Frontesque/VueTube",
     logo: "/logo.svg",
     nav: [{ text: "Download", link: "/install/" }],
+
+
     sidebar: {
-      "/install/": [
+      "/": [
         {
           title: "Install",
           collapsable: false,
-          children: ["/install/", "/install/android-support", "/install/ios-support", "/install/android-system-webview"],
+          children: ["/install/", "/install/android-system-webview"],
         },
-      ],
+        {
+          title: "Supported Devices",
+          collapsable: false,
+          children: [ "/support/android", "/support/ios"],
+        }
+      ]
     },
+
+
     codeSwitcher: {
       groups: {
         default: { ts: "TypeScript", js: "JavaScript" },
