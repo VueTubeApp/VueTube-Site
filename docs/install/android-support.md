@@ -3,10 +3,10 @@
 ## Key
 | Support          | Indicator   |
 | ---------------- | ----------- |
-| Verified Working | ✅          |
+| Official Support | ✅          |
 | [May Require Updates*](/install/android-system-webview) | 🟣          |
 | Untested         | 🟠          |
-| Broken           | ❌          |
+| No Support       | ❌          |
 
 ## Support
 | Version     | Support     |
