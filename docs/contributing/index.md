@@ -27,4 +27,4 @@ If you're done with your changes and are ready to submit your code, there is one
 A pull request is fairly simple, and it's done here on GitHub. All we ask is that you include a few screenshots (and/or screen recordings) of what you've actually changed within the app.
 
 # Thanks
-We hope that you have had a smooth experience contributing the VueTube. Any additional questions or concerns can be asked on our [Discord server](https://discord.gg/7P8KJrdd5W).
+We hope that you have had a smooth experience contributing to VueTube. Any additional questions or concerns can be asked on our [Discord server](https://discord.gg/7P8KJrdd5W).
