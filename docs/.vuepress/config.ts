@@ -28,6 +28,11 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
           title: "Development",
           collapsable: false,
           children: [ "/contributing/"],
+        },
+        {
+          title: "Information",
+          collapsable: false,
+          children: [ "/info/screenshots"],
         }
       ]
     },
