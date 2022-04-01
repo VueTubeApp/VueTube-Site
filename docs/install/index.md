@@ -12,8 +12,8 @@ A lot of bugs, but early access to features
 
 ## Nightly:
 Less bugs than unstable, slightly more features than stable
-- Android: [Download (format: .apk)](https://cdn.discordapp.com/attachments/946910031562027029/957973723095375882/VueTube-Nightly-March-28-2022.apk)
-- iOS: [Download (format: .ipa)](https://cdn.discordapp.com/attachments/949908267855921163/957116643413196900/VueTube-Nightly-March-25-2022.ipa)
+- Android: [Download (format: .apk)](https://cdn.discordapp.com/attachments/946910031562027029/959269908540182608/VueTube-Nightly-April-1-2022.apk)
+- iOS: [Download (format: .ipa)](https://cdn.discordapp.com/attachments/949908267855921163/959269864713904138/VueTube-Nightly-April-1-2022.ipa)
 
 ## Stable:
 Not available until the app becomes more developed
