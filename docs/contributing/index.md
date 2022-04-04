@@ -4,8 +4,8 @@ Hello! First of all, I'd like to say thank you for your interest in contributing
 # Prerequisites 
 - Android Studio "Arctic Fox" or Later - [Download](https://developer.android.com/studio#downloads)
 - NodeJS 16.x - [Download](https://nodejs.org/en/download/)
-- Java JRE 1.8 - [Download your preferred java runner]
-- Java JDK 1.8 - [Download your preferred JDK]
+- Java JRE 11 - [Download your preferred java runner]
+- Java JDK 11 - [Download your preferred JDK]
 - (Optional) Xcode [iOS app development] - [Download](https://developer.apple.com/xcode/)
 
 # Setup
