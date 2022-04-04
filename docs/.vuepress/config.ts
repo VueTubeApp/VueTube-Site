@@ -33,6 +33,11 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
           title: "Information",
           collapsable: false,
           children: [ "/info/screenshots"],
+        },
+        {
+          title: "Plugins",
+          collapsable: false,
+          children: [ "/plugins/"],
         }
       ]
     },
@@ -44,5 +49,5 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
         "plugin-usage": { tuple: "Tuple", object: "Object" },
       },
     },
-  },
-}));
+  }
+}))
