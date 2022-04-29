@@ -10,9 +10,9 @@ A lot of bugs, but early access to features
 - Android: [Download (format: .zip // contains .apk)](https://nightly.link/Frontesque/VueTube/workflows/ci/main/android.zip)
 - iOS: [Download (format: .zip // contains .ipa)](https://nightly.link/Frontesque/VueTube/workflows/ci/main/iOS.zip)
 
-## Nightly:
+## Canary:
 Less bugs than unstable, slightly more features than stable
-- Android: [Download (format: .apk)](https://cdn.discordapp.com/attachments/946910031562027029/959269908540182608/VueTube-Nightly-April-1-2022.apk)
+- Android: [Download (format: .apk)](https://cdn.discordapp.com/attachments/946910031562027029/969245989984686151/VueTube-Canary-April-28-2022.apk)
 - iOS: [Download (format: .ipa)](https://cdn.discordapp.com/attachments/949908267855921163/959269864713904138/VueTube-Nightly-April-1-2022.ipa)
 
 ## Stable:
