@@ -12,8 +12,8 @@ A lot of bugs, but early access to features
 
 ## Canary:
 Less bugs than unstable, slightly more features than stable
-- Android: [Download (format: .apk)](https://cdn.discordapp.com/attachments/946910031562027029/969245989984686151/VueTube-Canary-April-28-2022.apk)
-- iOS: [Download (format: .ipa)](https://cdn.discordapp.com/attachments/949908267855921163/959269864713904138/VueTube-Nightly-April-1-2022.ipa)
+- Android: [Download (format: .apk)](https://cdn.discordapp.com/attachments/946910031562027029/972164599816273930/VueTube-Canary-May-6-2022.apk)
+- iOS: [Download (format: .ipa)](https://cdn.discordapp.com/attachments/949908267855921163/972164558930198528/VueTube-Canary-May-6-2022.ipa)
 
 ## Stable:
 Not available until the app becomes more developed
