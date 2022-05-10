@@ -7,8 +7,8 @@ Before installing any version of VueTube, please make sure that your device is u
 
 ## Unstable
 A lot of bugs, but early access to features
-- Android: [Download (format: .zip // contains .apk)](https://nightly.link/Frontesque/VueTube/workflows/ci/main/android.zip)
-- iOS: [Download (format: .zip // contains .ipa)](https://nightly.link/Frontesque/VueTube/workflows/ci/main/iOS.zip)
+- Android: [Download (format: .zip // contains .apk)](https://nightly.link/VueTubeApp/VueTube/workflows/ci/main/android.zip)
+- iOS: [Download (format: .zip // contains .ipa)](https://nightly.link/VueTubeApp/VueTube/workflows/ci/main/iOS.zip)
 
 ## Canary:
 Less bugs than unstable, slightly more features than stable
