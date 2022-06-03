@@ -11,13 +11,13 @@ features:
   - title: Free and Open Source
     details: Built on top of Vue and licensed under the GPL-3.0, VueTube is free and open source, and will never track you or ask for payment.
   - title: Additional plugins and extensions
-    details: SponsorBlock? Return YouTube dislikes? AdBlock? Background play? We've got it all.
+    details: SponsorBlock? Return YouTube dislikes? AdBlock? We've got it all.
   - title: Cross-compatible
     details: It doesn't matter whether you have an Android or an iPhone, VueTube works anywhere, anywhere.
-  - title: Always up-to-date
-    details: Never worry about updates again, it's built right into the app so you'll always have the latest and greatest. Don't like a new change? Just revert it!
   - title: Community
     details: We strive to build a sense of community while developing VueTube. Join our Discord or Reddit to leave your feedback!
+  - title: Development
+    details: Please note that VueTube is still under heavy development and may undergo changes.
 ---
 
 ::: slot heroText
