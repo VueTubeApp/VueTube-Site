@@ -1,13 +1,9 @@
 # Screenshots
-
-### Home
-<img src="/1648741703589_100.PNG" alt="VueTube Home" width="400"/>
-
 ### Search
-<img src="/1648742526674_100.PNG" alt="VueTube Search" width="400"/>
+<img src="/srch.png" alt="VueTube Search" width="400"/>
 
 ### Watch
-<img src="/1648742519859_100.PNG" alt="VueTube Watch" width="400"/>
+<img src="/wtch.png" alt="VueTube Watch" width="800"/>
 
-### Settings
-<img src="/1648741710898_100.PNG" alt="VueTube Watch" width="400"/>
+### Customize
+<img src="/stng.png" alt="VueTube Settings" width="100%"/>
