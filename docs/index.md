@@ -1,12 +1,12 @@
 ---
 home: true
-heroImage: /logo.svg
+heroImage: /logocircle.svg
 actionText: Install
 actionLink: /install/
 subActionText: GitHub
 subActionLink: https://github.com/Frontesque/VueTube
 features:
-  - title: Blazing fast
+  - title: Blazingly fast
     details: With an optimized, simple, and easy to use UI, you'll find that using VueTube feels right at home.
   - title: Free and Open Source
     details: Built on top of Vue and licensed under the GPL-3.0, VueTube is free and open source, and will never track you or ask for payment.
