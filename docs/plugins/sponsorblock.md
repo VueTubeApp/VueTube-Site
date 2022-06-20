@@ -1,7 +1,7 @@
 # SponsorBlock
 
 ## What is SponsorBlock?
-SponsorBlock is a crowdsourced third-party open source extension and API that automatically skips annoying segments in YouTube videos, such as **paid sponsors**, **interaction reminders** ("Subscribe to my channel"), **resumes of previous videos** and **non-music parts** in music videos. It even has an option to directly go to the most important part of a video (Highlighted segment). You can customize which types of segments you want to be skipped and which you want to watch. This is integrated in **VueTube** as a plugin.
+SponsorBlock is a crowdsourced third-party open source extension and API that automatically skips annoying segments in YouTube videos, such as **paid sponsors**, **interaction reminders** (e.g. "Subscribe to my channel"), **recap of previous videos** and **non-music parts** in music videos. It even has an option to directly go to the most important part of a video (Highlighted segment). You can customize which types of segments you want to be skipped and which you want to watch. This is integrated in **VueTube** as a plugin.
 
 *Fun fact: SponsorBlock has saved more than 612 years of people's time with more than 500 million skips.*
 
