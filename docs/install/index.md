@@ -15,7 +15,7 @@ Less bugs than unstable, slightly more features than stable
 [Download From Github](https://github.com/vuetubeapp/vuetube/releases/latest)
 
 ## Stable:
-Not available until the app becomes more developed
+Not available until the app becomes more developed, please use Canary in the meantime!
 
 <!-- <NextSteps>
   <Step href="/guide/nightly-install.html" title="Install Nightly Builds" description="Learn how to quickly install VueTube."/>
