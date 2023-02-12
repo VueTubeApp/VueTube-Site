@@ -17,6 +17,9 @@ Therefore, if you wish to contribute to VueTube's backend functionalities, you s
 
 # Getting Started
 
+To get a more detailed setup guide, as well as a guide on how to get started with the codebase, please refer to
+the [VueTube Extractor Wiki](https://github.com/VueTubeApp/VueTube-Extractor/wiki/)
+
 ## Setup
 
 - via Yarn (recommended)
@@ -60,10 +63,12 @@ request.
 
 ## Testing
 
-> Please Note: YouTube's API may return different results for different users depending on their location as well as
-> other factors. Therefore, there is a chance that your tests may fail inconsistently. If this happens, please try to
-> locate the issue and fix it. If you are unable to fix it, please open an issue and describe the problem in as much
-> detail as possible.
+::: tip
+YouTube's API may return different results for different users depending on their location as well as
+other factors. Therefore, there is a chance that your tests may fail inconsistently. If this happens, please try to
+locate the issue and fix it. If you are unable to fix it, please open an issue and describe the problem in as much
+detail as possible.
+:::
 
 VueTube Extractor uses [Jest](https://jestjs.io/) to ensure that all code is tested before being merged into the main
 branch. 

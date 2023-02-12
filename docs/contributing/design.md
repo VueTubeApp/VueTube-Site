@@ -37,9 +37,10 @@ interfaces for the app.
 
 ## Git for Designers
 
-> Note: You may not need to use Git if you are only designing interfaces. However, if you are interested in contributing
-> to this project's codebase or any other project in the future, you will need to learn how to use Git.
-
+::: tip
+Note: You may not need to use Git if you are only designing interfaces. However, if you are interested in contributing
+to this project's codebase or any other project in the future, you will need to learn how to use Git.
+:::
 If you are not familiar with Git, we recommend that you read [this guide](https://rogerdudler.github.io/git-guide/) for
 a detailed explanation of how Git works. If you are familiar with Git, but are not familiar with GitHub, we recommend
 that you read [this guide](https://guides.github.com/activities/hello-world/) for a detailed explanation of how GitHub
@@ -51,10 +52,12 @@ repositories.
 
 ## Submitting Your Designs
 
-> If you are unfamiliar with GitHub Issues, we recommend that you
-> read [this guide](https://guides.github.com/features/issues/)
-> or [the quickstart guide](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart) to familiarize
-> yourself with the issue tracker.
+::: tip
+If you are unfamiliar with GitHub Issues, we recommend that you
+read [this guide](https://guides.github.com/features/issues/)
+or [the quickstart guide](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart) to familiarize
+yourself with the issue tracker.
+:::
 
 Once you have finished designing your interfaces, you can submit your designs by opening an issue on the repository
 using the `design subbmission` template. Our
@@ -65,5 +68,5 @@ your issue and provide feedback on why your designs were rejected.
 Alternatively, if you wish to start an open discussion about your designs, you may want to use the discussions tab on
 the GitHub repository.
 
-We highly recommend that you include a link to your Figma file in your issue. This will allow us to easily review your
+We highly recommend that you include a link to your [Figma](https://www.figma.com/) file in your issue. This will allow us to easily review your
 designs as well as provide feedback.

@@ -16,10 +16,13 @@ Now that you have everything installed, you can proceed with installing your nod
 
 # Testing
 If you wish to test the app within your browser, you can enter the `NUXT` directory, and run `npm run dev`. You can then navigate to `http://localhost:80/` in your favorite web browser.
-> NOTE: TESTING THE APPLICATION FROM WITHIN YOUR WEB BROWSER DISALLOWS SOME FEATURES FROM WORKING. PLEASE COMPILE TO YOUR ANDROID DEVICE BEFORE SUBMITTING YOUR PULL REQUEST
 
-> NOTE2: If you get an error about `EACCES: permission denied 0.0.0.0:80`, change the port in `nuxt.config.js` back to 3000.
-
+:::danger
+Testing the application from within your web browser disallows some features from working. Please compile to your android device before submitting your pull request
+:::
+::: tip
+If you get an error about `EACCES: permission denied 0.0.0.0:80`, change the port in `nuxt.config.js` back to 3000.
+:::
 If you're done with your changes and are ready to submit your code, there is one last step: compiling to your android device.
 - Plug in your Android or iOS device. (and make sure that ADB works for android by running `adb devices` in your ADB directory)
 - Then, in the root directory of the project, run `./scripts/build.ps1` on Windows or `./scripts/build.sh` for linux or mac.
